@@ -1,4 +1,4 @@
-# 📚 Bangla RAG QA App
+# 📚 Bangla and English RAG QA App
 
 A Bengali Question Answering app powered by **LangChain**, **FAISS**, **Hugging Face Embeddings**, and **Google Gemini**. The app reads text from `ocr_output.txt`, chunks it, creates vector embeddings, and answers questions in Bengali using retrieved context.
 
