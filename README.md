@@ -62,6 +62,25 @@ load_dotenv()
 🧠 Build the Vector Index (Run Once)
 python build_faiss_index.py
 
+🛠️ Extra Setup Notes
+Install Tesseract-OCR binary
+Required for pytesseract. On Windows:
+
+Download: https://github.com/UB-Mannheim/tesseract/wiki
+
+Add install path (e.g. C:\Program Files\Tesseract-OCR) to PATH.
+
+Tesseract language packs (for Bangla)
+Make sure ben.traineddata is in the tessdata folder.
+
+PDF2Image dependency
+Install Poppler binary:
+
+Windows: https://github.com/oschwartz10612/poppler-windows/releases
+
+Add poppler/bin/ to PATH.
+
+
 
 ### 1. Clone the repository
 
