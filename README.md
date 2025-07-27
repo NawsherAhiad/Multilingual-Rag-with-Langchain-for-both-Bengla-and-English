@@ -84,7 +84,7 @@ Add poppler/bin/ to PATH.
 
 ### 1. Clone the repository
 
-'''bash
+''' bash
 git clone https://github.com/yourusername/bangla-rag-app.git
 cd bangla-rag-app
 
