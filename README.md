@@ -84,7 +84,7 @@ Add poppler/bin/ to PATH.
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/yourusername/bangla-rag-app.git
 cd bangla-rag-app
 
@@ -151,10 +151,16 @@ choose this similarity method and storage setup?
 meaningfully? What would happen if the query is vague or missing context?
     ans: Im also looking for the answer.
 
----
+
 
 ○ Do the results seem relevant? If not, what might improve them (e.g. better 
 chunking, better embedding model, larger document)?
     ans: I dont see the results are relevent. I beleive better chunking with better clusification will improve a lot initially. 
 
+---
+## 📜 License
+MIT License. Free to use and modify.
 
+## ✨ Author
+Developed by Md. Ahied Mahi Chowdhury
+Inspired by LangChain + Gemini for Bengali NLP 🚀
