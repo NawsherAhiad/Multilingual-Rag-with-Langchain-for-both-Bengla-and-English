@@ -121,7 +121,7 @@ bangla-rag-app/
  Add question history sidebar
  Improve MCQ extraction
 
-📜 License
+## 📜 License
 MIT License. Free to use and modify.
 
 ✨ Author
