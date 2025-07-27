@@ -84,7 +84,7 @@ Add poppler/bin/ to PATH.
 
 ### 1. Clone the repository
 
-''' bash
+```bash
 git clone https://github.com/yourusername/bangla-rag-app.git
 cd bangla-rag-app
 
@@ -114,7 +114,7 @@ bangla-rag-app/
 ├── faiss_multilingual/     # Vector index (auto-generated)
 └── README.md
 
-
+---
 📌 To Do
  Add PDF upload
  Deploy on Streamlit Cloud or Render
@@ -157,7 +157,7 @@ meaningfully? What would happen if the query is vague or missing context?
 chunking, better embedding model, larger document)?
     ans: I dont see the results are relevent. I beleive better chunking with better clusification will improve a lot initially. 
 
----
+
 ## 📜 License
 MIT License. Free to use and modify.
 
