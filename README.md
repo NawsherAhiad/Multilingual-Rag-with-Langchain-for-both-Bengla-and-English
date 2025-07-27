@@ -121,13 +121,6 @@ bangla-rag-app/
  Add question history sidebar
  Improve MCQ extraction
 
-## 📜 License
-MIT License. Free to use and modify.
-
-✨ Author
-Developed by Md. Ahied Mahi Chowdhury
-Inspired by LangChain + Gemini for Bengali NLP 🚀
-
 
 Answering following Questions
  
@@ -157,6 +150,8 @@ choose this similarity method and storage setup?
 ○ How do you ensure that the question and the document chunks are compared 
 meaningfully? What would happen if the query is vague or missing context?
     ans: Im also looking for the answer.
+
+---
 
 ○ Do the results seem relevant? If not, what might improve them (e.g. better 
 chunking, better embedding model, larger document)?
